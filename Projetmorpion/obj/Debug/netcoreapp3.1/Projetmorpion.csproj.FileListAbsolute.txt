@@ -1,0 +1,13 @@
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\bin\Debug\netcoreapp3.1\Projetmorpion.exe
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\bin\Debug\netcoreapp3.1\Projetmorpion.deps.json
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\bin\Debug\netcoreapp3.1\Projetmorpion.runtimeconfig.json
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\bin\Debug\netcoreapp3.1\Projetmorpion.runtimeconfig.dev.json
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\bin\Debug\netcoreapp3.1\Projetmorpion.dll
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\bin\Debug\netcoreapp3.1\Projetmorpion.pdb
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\obj\Debug\netcoreapp3.1\Projetmorpion.csprojAssemblyReference.cache
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\obj\Debug\netcoreapp3.1\Projetmorpion.AssemblyInfoInputs.cache
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\obj\Debug\netcoreapp3.1\Projetmorpion.AssemblyInfo.cs
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\obj\Debug\netcoreapp3.1\Projetmorpion.csproj.CoreCompileInputs.cache
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\obj\Debug\netcoreapp3.1\Projetmorpion.dll
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\obj\Debug\netcoreapp3.1\Projetmorpion.pdb
+C:\Users\yanis\source\repos\Projetmorpion\Projetmorpion\obj\Debug\netcoreapp3.1\Projetmorpion.genruntimeconfig.cache
